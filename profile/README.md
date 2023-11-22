@@ -14,12 +14,3 @@ Do you intend to integrate Kwik Pik's Delivery-As-A-Service API in your business
 ### Download our app for dispatch riders
 
 [![Appstore](https://kwikpik.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fapple_btn.6eec2858.png&w=256&q=100)](https://apps.apple.com/app/kwik-pik-rider/id6447309063) [![Playstore](https://kwikpik.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgoogle_btn.1cc1da4e.png&w=256&q=100)](https://play.google.com/store/apps/details?id=io.kwikpik.rider_app)
-
-
-## Technology stack
-
-
-
-*Services*
-
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/kwikpik/services)
