@@ -1,6 +1,6 @@
 # Kwikpik
 
-Welcome to Kwikpik's GitHub organization. Kwik Pik is an on-demand, point-to-point Delivery as a Service (DaaS) technology platform powered by a scalable and independent network of approved drivers and vehicles. 
+Welcome to Kwikpik's GitHub organization. Kwikpik is a Web3 on-demand delivery marketplace that simplifies deliveries for SMEs and individuals by leveraging a 3PL network for faster, cost-effective logistics. It integrates carbon emissions tracking, decentralized payments, and inventory financing to empower businesses and promote sustainability.
 
 Want to know more? [Visit our official website](https://kwikpik.io)
 
